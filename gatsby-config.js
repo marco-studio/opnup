@@ -1,29 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Over The Bridge`,
-    description: `Hey, meet Bilal, Kwaku, Patrick &amp; Tom. 4 Black &amp; Mixed-Race guys who became friends whilst studying at Cambridge University. Join us as we talk about life before, during and well - after 'The Bridge'. Expect chats about life, and our own experiences.
-    email: otbpodcastuk@gmail.com
-    Twitter: @otbpodcastuk
-    Cast: 
-    Kwaku: @KwakuDapaah_
-    Patrick: @CariocoLondrino
-    Bilal: @Tweetsbybilal
-    Tom: @TomTheEconomist`,
-    author: `Kwaku, Patrick, Bilal & Tom`,
-    twitter: `https://twitter.com/otbpodcastuk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor`,
-    instagram: `https://www.instagram.com/otbpodcastuk/`,
-    facebook: ``,
-    youtube: ``,
-    apple: `https://podcasts.apple.com/podcast/id1364395842?ct=podlink&mt=2`,
+    title: `Open Up Podcast`,
+    description: `The show that's "Making Mental Health Mainstream" by sharing stories of struggle, how it was overcome and the lessons our guests have taken away from it all. We delve into a wide range of topics, from the heavy ones like suicide and sexual abuse, to the more prevalent issues like anxiety, depression, body image and not feeling enough.`,
+    author: `Lachlan Samuel`,
+    twitter: ``,
+    instagram: `https://www.instagram.com/openupgroup/`,
+    facebook: `https://www.facebook.com/openuppodcast/?utm_source=podnews.net&utm_medium=web&utm_campaign=podcast-page`,
+    youtube: `https://www.youtube.com/channel/UCcTovdKChwndCNwGeXDHxGw?view_as=subscriber`,
+    apple: `https://podcasts.apple.com/podcast/id1359096106?ct=podlink&mt=2`,
     stitcher: ``,
-    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDA3NTYwNzY0L3NvdW5kcy5yc3M=`,
-    pocket: `https://pca.st/itunes/1364395842`,
-    spotify: `https://open.spotify.com/show/0Lo2a3hwV0nxymHUj2lNIk`,
-    overcast: `https://overcast.fm/itunes1364395842`,
-    castbox: `https://soundcloud.com/overthebridgeuk`,
-    castro: `https://castro.fm/itunes/1364395842`,
-    podbean: `https://www.podbean.com/podcast-detail/g9v5c-68ac3/Over-The-Bridge-Podcast`,
-    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A407560764%2Fsounds.rss`
+    google: `https://podcasts.google.com/?feed=aHR0cDovL29wZW51cHBvZGNhc3QubGlic3luLmNvbS9yc3M=`,
+    pocket: `https://pca.st/itunes/1359096106`,
+    spotify: `https://open.spotify.com/show/7m4z7MgzinHhGf4r5tVpgz`,
+    overcast: `https://overcast.fm/itunes1359096106`,
+    castbox: `https://castbox.fm/vic/1359096106`,
+    castro: `https://castro.fm/itunes/1359096106`,
+    podbean: ``,
+    beaker: ``
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -59,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `http://openuppodcast.libsyn.com/rss`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
