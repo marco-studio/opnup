@@ -15,7 +15,7 @@ const Newsletter = () => {
   `);
   return (
     <>
-      <div className=" text-center text-xl font-medium text-gray-900 md:font-semibol md:text-3xl  lgx:mt-24 ">
+      <div className=" text-center text-xl font-medium text-gray-900 md:font-semibol md:text-3xl mt-16  lgx:mt-24 ">
         Never Miss a Thing
       </div>
       <div className="mt-6 mb-6 text-gray-700 leading-relaxed md:text-xl">
